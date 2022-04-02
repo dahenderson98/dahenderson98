@@ -5,6 +5,9 @@ My current interests revolve around distributed ledger and blockchain technologi
 
 See some of my web projects below:
 
+// Jewelry E-Commerce Website (Express, Node.js, Vue.js, MongoDB)
+http://modernity.dallinhenderson.com/
+
 // Museum of Ordinary Items (Express, Node.js, Vue.js, MongoDB)
 http://museum.dallinhenderson.com/
 
