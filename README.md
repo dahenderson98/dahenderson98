@@ -9,25 +9,25 @@ See some of my web projects below:
 https://photobomb.dallinhenderson.com/
 
 // Jewelry E-Commerce Website (Express, Node.js, Vue.js, MongoDB)
-http://modernity.dallinhenderson.com/
+https://modernity.dallinhenderson.com/
 
 // Museum of Ordinary Items (Express, Node.js, Vue.js, MongoDB)
-http://museum.dallinhenderson.com/
+https://museum.dallinhenderson.com/
 
 // Photographer's website
-http://lab1.dallinhenderson.com
+https://lab1.dallinhenderson.com
 
 // Live Weather API App
-http://lab2.dallinhenderson.com
+https://lab2.dallinhenderson.com
 
 // Comic Browser
-http://lab3.dallinhenderson.com/
+https://lab3.dallinhenderson.com/
 
 // Grocery Store (Vue.js)
-http://lab3.dallinhenderson.com/
+https://lab3.dallinhenderson.com/
 
 // Fantasy Basketball Roster (Vue.js)
-http://creative.vue.dallinhenderson.com/
+https://creative.vue.dallinhenderson.com/
 
 // My personal portfolio website
-http://dallinhenderson.com/
+https://dallinhenderson.com/
