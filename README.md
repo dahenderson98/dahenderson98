@@ -5,6 +5,9 @@ My current interests revolve around distributed ledger and blockchain technologi
 
 See some of my web projects below:
 
+// PhotoBomb Image Posting Site (Express, Node.js, Vue.js, MongoDB, user authorization, cookies)
+https://photobomb.dallinhenderson.com/
+
 // Jewelry E-Commerce Website (Express, Node.js, Vue.js, MongoDB)
 http://modernity.dallinhenderson.com/
 
