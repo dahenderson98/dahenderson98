@@ -1,4 +1,4 @@
-Hi there! I'm Dallin Henderson, a senior computer science undergrad at Brigham Young University. I am proficient with Python, Java, JavaScript, HTML5, CSS, Vue, R, and C++. 
+Hi there! I'm Dallin Henderson, a senior computer science undergrad at Brigham Young University. I am proficient with Python, Java, JavaScript, HTML5, CSS, Vue, WPF, C#, and C++. 
 
 My current interests revolve around distributed ledger and blockchain technologies, distributed application design, and smart contracts.
 
