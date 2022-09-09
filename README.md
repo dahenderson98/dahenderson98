@@ -2,6 +2,11 @@ Hi there! I'm Dallin Henderson, a senior computer science undergrad at Brigham Y
 
 My current interests revolve around distributed ledger and blockchain technologies, distributed application design, and smart contracts.
 
+My Data Science Projects:
+
+//Vectorization Demonstrations in Python
+https://colab.research.google.com/drive/13KDkUkIqwFdr8gg7FS3Unm4noFMNdLun?usp=sharing
+
 
 See some of my web projects below:
 
