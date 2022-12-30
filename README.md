@@ -90,7 +90,7 @@ https://github.com/dahenderson98/CougarCoinMiner
 
 Algorithms:
 
-// Convex Hull (Divid-and-Conquer)
+// Convex Hull (Divide-and-Conquer)
 https://github.com/dahenderson98/Convex-Hull/tree/master/proj2
 
 // Network Routing (Greedy)
