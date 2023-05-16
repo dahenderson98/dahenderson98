@@ -142,10 +142,11 @@ https://github.com/dahenderson98/Fermat-Miller-Rabin-Theorems/blob/master/main.p
 
 Systems:
 
-// Proxy Web Server Using EPOLL
+// Proxy Web Server Using IO Multiplexing (EPOLL)
+https://github.com/dahenderson98/324_REPO/blob/master/lab-proxy-iomultiplex/proxy.c
 
-
-// Proxy Web Server Using Threading
-
+// Proxy Web Server Using a Threadpool
+https://github.com/dahenderson98/324_REPO/blob/master/lab-proxy-threadpool/proxy.c
 
 // Shell Program
+https://github.com/dahenderson98/324_REPO/blob/master/lab-shell-pipeline/tsh.c
