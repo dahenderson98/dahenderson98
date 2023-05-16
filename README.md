@@ -1,6 +1,4 @@
-Hi there! I'm Dallin Henderson, a senior computer science undergrad at Brigham Young University. I am proficient with Python, Java, JavaScript, HTML5, CSS, Vue, WPF, C#, C++, C, Spark, Neo4j (cypher), Redis, MongoDB, SQL, NOSQL, Solidity, and more. 
-
-My current interests revolve around distributed ledger and blockchain technologies, distributed application design, and smart contracts.
+Hi there! I'm Dallin Henderson, a junior software engineer in the transportation technology industry. I am proficient with Python, Java, JavaScript, HTML5, CSS, Vue, WPF, C#, C++, C, Spark, Neo4j (cypher), Redis, MongoDB, SQL, NOSQL, Solidity, and more. 
 
 Here are some of my projects, by subject:
 
