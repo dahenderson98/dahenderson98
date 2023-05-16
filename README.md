@@ -2,7 +2,7 @@ Hi there! I'm Dallin Henderson, a senior computer science undergrad at Brigham Y
 
 My current interests revolve around distributed ledger and blockchain technologies, distributed application design, and smart contracts.
 
-Below are some of my projects:
+Here are some of my projects, by subject:
 
 
 Data Science:
@@ -17,6 +17,10 @@ https://github.com/dahenderson98/Cereal-Data-Analysis/blob/main/CerealDataAnalys
 https://github.com/dahenderson98/College-Football-Analytics/blob/main/CollegeFootballAnalytics.ipynb
 
 
+// Life Expectancy Regression Analysis
+
+
+
 
 Machine Learning:
 
@@ -29,11 +33,40 @@ https://github.com/dahenderson98/Back-propogation/blob/main/BackProp_HendersonDa
 // Decision Tree Classifier
 https://github.com/dahenderson98/Decision-Tree/blob/main/DecisionTree.ipynb
 
-// K Nearest Neighbors Classifier
+// K-Nearest Neighbors Classifier
 https://github.com/dahenderson98/K-Nearest-Neighbors/blob/main/KNN.ipynb
 
-// K Means Clustering Algorithm
+// K-Means Clustering Algorithm
 https://github.com/dahenderson98/K-Means-Clustering/blob/main/Clustering_Lab.ipynb
+
+
+
+Deep Learning:
+
+// Image Classifier (convolutional neural network, pytorch)
+
+
+// Image Style Transfer (VGG neural network, pytorch)
+
+
+// Machine Translation (Transformer w/ multiheadded attention, pytorch)
+
+
+// Model Fine-Tuning (ResNet, GPT-2, pytorch)
+
+
+// Prompt-Based Image Generation (Stable diffusion, UNet, pytorch)
+
+
+// COVID-19 Diagnosis (CNN, pytorch)
+
+
+
+
+Natural Language Processing:
+
+// Character-Level Text Generation (GRU recurrent neural network, pytorch)
+
 
 
 
@@ -104,3 +137,15 @@ https://github.com/dahenderson98/Traveling-Salesman/tree/master
 
 // Fermat, Miller-Rabin Theorems
 https://github.com/dahenderson98/Fermat-Miller-Rabin-Theorems/blob/master/main.py
+
+
+
+Systems:
+
+// Proxy Web Server Using EPOLL
+
+
+// Proxy Web Server Using Threading
+
+
+// Shell Program
