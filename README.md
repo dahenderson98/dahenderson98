@@ -18,7 +18,7 @@ https://github.com/dahenderson98/College-Football-Analytics/blob/main/CollegeFoo
 
 
 // Life Expectancy Regression Analysis
-
+https://github.com/dahenderson98/LifeExpectancyAnalysis/blob/main/life_expectancy.ipynb
 
 
 
@@ -63,7 +63,7 @@ https://github.com/dahenderson98/ImageGeneration/blob/main/image_generation.ipyn
 Natural Language Processing:
 
 // Character-Level Text Generation (GRU recurrent neural network, pytorch)
-
+https://github.com/dahenderson98/TextGeneration
 
 // Machine Translation (Transformer w/ multiheadded attention, pytorch)
 https://github.com/dahenderson98/MachineTranslation/blob/main/translation.ipynb
