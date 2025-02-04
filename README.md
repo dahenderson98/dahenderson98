@@ -1,7 +1,9 @@
-Hi there! I'm Dallin Henderson, a mid-level software engineer in the transportation technology industry. I am proficient with .NET/C#, Python, Java, JavaScript, HTML5, CSS, Vue, WPF, C++, C, Spark, Neo4j (cypher), Redis, MongoDB, SQL, NOSQL, Solidity, and more. 
+Hi there! I'm Dallin Henderson, a mid-level software engineer in the smart traffic industry. Some of my skills include:
+.NET/C#, Python, Java, JavaScript, HTML5, CSS, Vue, WPF, C++, C, Spark, Neo4j (cypher), Redis, MongoDB, SQL, NOSQL, Solidity
+
+I am passionate about building AI that changes lives, from boosting productivity to unlocking new markets and driving prosperity.
 
 Here are some of my projects, by subject:
-
 
 Data Science:
 
