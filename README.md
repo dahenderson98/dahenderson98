@@ -5,21 +5,22 @@ I am passionate about building AI that changes lives, from boosting productivity
 
 Here are some of my projects, by subject:
 
-Data Science:
 
-// Vectorization Demonstrations in Python
-https://colab.research.google.com/drive/13KDkUkIqwFdr8gg7FS3Unm4noFMNdLun?usp=sharing
+Deep Learning:
 
-// Cereal Analytics
-https://github.com/dahenderson98/Cereal-Data-Analysis/blob/main/CerealDataAnalysis.ipynb
+// Image Classifier (convolutional neural network, pytorch)
+https://github.com/dahenderson98/ImageClassifier/blob/main/DNN_Image_Classifier.ipynb
 
-// College Football Analytics
-https://github.com/dahenderson98/College-Football-Analytics/blob/main/CollegeFootballAnalytics.ipynb
+// Image Style Transfer (VGG neural network, pytorch)
+https://github.com/dahenderson98/ImageStyleTransfer/blob/main/styletransfer.ipynb
 
+// Model Fine-Tuning (ResNet, GPT-2, pytorch)
+https://github.com/dahenderson98/FineTuning/blob/main/finetuning.ipynb
 
-// Life Expectancy Regression Analysis
-https://github.com/dahenderson98/LifeExpectancyAnalysis/blob/main/life_expectancy.ipynb
+// Prompt-Based Image Generation (Stable diffusion, UNet, pytorch)
+https://github.com/dahenderson98/ImageGeneration/blob/main/image_generation.ipynb
 
+// COVID-19 Diagnosis (CNN, pytorch)
 
 
 Machine Learning:
@@ -40,26 +41,6 @@ https://github.com/dahenderson98/K-Nearest-Neighbors/blob/main/KNN.ipynb
 https://github.com/dahenderson98/K-Means-Clustering/blob/main/Clustering_Lab.ipynb
 
 
-
-Deep Learning:
-
-// Image Classifier (convolutional neural network, pytorch)
-https://github.com/dahenderson98/ImageClassifier/blob/main/DNN_Image_Classifier.ipynb
-
-// Image Style Transfer (VGG neural network, pytorch)
-https://github.com/dahenderson98/ImageStyleTransfer/blob/main/styletransfer.ipynb
-
-// Model Fine-Tuning (ResNet, GPT-2, pytorch)
-https://github.com/dahenderson98/FineTuning/blob/main/finetuning.ipynb
-
-// Prompt-Based Image Generation (Stable diffusion, UNet, pytorch)
-https://github.com/dahenderson98/ImageGeneration/blob/main/image_generation.ipynb
-
-// COVID-19 Diagnosis (CNN, pytorch)
-
-
-
-
 Natural Language Processing:
 
 // Character-Level Text Generation (GRU recurrent neural network, pytorch)
@@ -67,6 +48,24 @@ https://github.com/dahenderson98/TextGeneration
 
 // Machine Translation (Transformer w/ multiheadded attention, pytorch)
 https://github.com/dahenderson98/MachineTranslation/blob/main/translation.ipynb
+
+
+
+Data Science:
+
+// Vectorization Demonstrations in Python
+https://colab.research.google.com/drive/13KDkUkIqwFdr8gg7FS3Unm4noFMNdLun?usp=sharing
+
+// Cereal Analytics
+https://github.com/dahenderson98/Cereal-Data-Analysis/blob/main/CerealDataAnalysis.ipynb
+
+// College Football Analytics
+https://github.com/dahenderson98/College-Football-Analytics/blob/main/CollegeFootballAnalytics.ipynb
+
+
+// Life Expectancy Regression Analysis
+https://github.com/dahenderson98/LifeExpectancyAnalysis/blob/main/life_expectancy.ipynb
+
 
 
 
