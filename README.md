@@ -1,7 +1,9 @@
-Hi there! I'm Dallin Henderson, a mid-level software engineer in the smart traffic industry. Some of my skills include:
-.NET/C#, Python, Java, JavaScript, HTML5, CSS, Vue, WPF, C++, C, Spark, Neo4j (cypher), Redis, MongoDB, SQL, NOSQL, Solidity
+Hi there! I'm Dallin Henderson, a senior software engineer in the Call-Center-as-a-Service (CCaaS) industry. I am currently building a real-time AI intelligence platform for many of the Fortune 500, serving +500M interactions per month.
 
-I am passionate about building AI that changes lives, from boosting productivity to unlocking new markets and driving prosperity.
+Some of my skills include:
+AWS, Claude Code, Go, proto-buffers, Kubernetes, C#, Python, React, Playwright, and much more.
+
+I am passionate about building AI that changes lives, from driving fast resolutions to democratizing information for the world.
 
 Here are some of my projects, by subject:
 
